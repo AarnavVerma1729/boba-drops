@@ -304,11 +304,6 @@ body {
     transform: translateY(-3px);
 }
 
-.project-disabled {
-    opacity: 0.6;
-    cursor: default;
-}
-
 .cursor {
     color: #704b36;
     animation: blink 1s step-end infinite;
